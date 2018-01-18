@@ -42,4 +42,5 @@ php artisan migrate
 ### TODO
 - refactoring
 - writing tests 
+- finish the docs :D
 
