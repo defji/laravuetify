@@ -6,6 +6,10 @@
 
 Sample project with Laravel 5.5 and Vuetifyjs 1.0
 
+
+![screenshot](https://image.prntscr.com/image/84NGUGtGSXqHf0BrDY8xtw.png)
+
+
 ## Install 
 ```shell
 git clone git@github.com:defji/laravuetify.git
